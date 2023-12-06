@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VizeDeneme2</string>
+    <string-array name="secenekler">
+        <item>ikilik</item>
+        <item>sekizlik</item>
+        <item>onaltılık</item>
+    </string-array>
+    <string-array name="secenekler2">
+        <item>fahrenayt</item>
+        <item>kelvin</item>
+    </string-array>
+</resources>
